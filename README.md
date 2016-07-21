@@ -23,6 +23,10 @@ You will need to have the sfml "LibLapin" installed and also the application "Bo
 > Finally, press *enter* to begin the solving.
 *(You can change the speed of the resolution by increasing the number in main.c line 174)*.
 
+**Limitation**
+
+Due to the fact that the algorithm is based on *backtracking*, the resolution of a map with more than 42 boxes takes too much time and can't be complete. 
+
 **PICTURE**
 
 ![Boxpop](http://nsa38.casimages.com/img/2016/07/21/160721033203391654.jpg)
